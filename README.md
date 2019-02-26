@@ -10,6 +10,8 @@ The original dataset here you can download it from <a href="https://www.kaggle.c
 
 Resources:
 https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386
+<br>
 https://www.listendata.com/2017/12/python-pandas-tutorial.html?1
+<br>
 https://pbpython.com/excel-pandas-comp-2.html
 
